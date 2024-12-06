@@ -24,3 +24,4 @@ __Importante:__ Para este ejercicio puedes elegir si realizar los pasos a travé
 <img src="./app/src/main/res/drawable/creando_repositorio_2.jpg" alt="">
 <img src="./app/src/main/res/drawable/creando_repositorio_3.jpg" alt="">
 <img src="./app/src/main/res/drawable/creando_repositorio_4.jpg" alt="">
+<img src="./app/src/main/res/drawable/creando_repositorio_5.jpg.jpg" alt="">
